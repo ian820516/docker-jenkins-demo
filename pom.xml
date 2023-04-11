@@ -29,7 +29,9 @@
                     </excludes>
                 </configuration>
             </plugin>
+
         </plugins>
+        <finalName>docker-jenkins-integration-demo</finalName>
     </build>
 
 </project>
